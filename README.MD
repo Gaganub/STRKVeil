@@ -2,7 +2,7 @@
 
 **STRKVeil** is a modern, sleek decentralized exchange (DEX) interface built for the Starknet ecosystem. It features a "dark pool" aesthetic, an intuitive swap interface, and seamless wallet integration simulation.
 
-<img src="dex-frontend/public/Logo.png" alt="STRKVeil Preview" width="300" height="200">
+<img src="dex-frontend/public/Logo.png" alt="STRKVeil Preview" width="50000" height="400">
 
 ## ✨ Features
 
