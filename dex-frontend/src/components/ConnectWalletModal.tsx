@@ -1,3 +1,4 @@
+//Client Side services for connecting wallet
 "use client";
 
 import { X } from "lucide-react";
